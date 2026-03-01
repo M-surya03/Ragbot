@@ -1,0 +1,7 @@
+* {
+  scroll-behavior: smooth;
+}
+
+.MuiButton-root {
+  transition: all 0.25s ease;
+}
